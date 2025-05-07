@@ -17,10 +17,10 @@ At ChronoGal, we aim to:
 1. **[Chronology of our Galaxy from Gaia colour-magnitude diagram fitting (ChronoGal). I. The formation and evolution of the thin disc from the Gaia Catalogue of Nearby Stars](https://doi.org/10.1051/0004-6361/202349078)**  
    *Brief summary of the paper*
 
-2. **[Chronology of our Galaxy from Gaia colour-magnitude diagram fitting (ChronoGal) II. Unveiling the formation and evolution of the kinematically selected Thick and Thin Discs](https://arxiv.org/abs/2503.19536)**  
+2. **[Chronology of our Galaxy from Gaia colour-magnitude diagram fitting (ChronoGal). II. Unveiling the formation and evolution of the kinematically selected Thick and Thin Discs](https://arxiv.org/abs/2503.19536)**  
    *Brief summary of the paper.*
 
-3. **[Chronology of our Galaxy from Gaia colour-magnitude diagram fitting (ChronoGal) -- III. Age and metallicity distribution of Gaia-Sausage-Enceladus stars near the Sun](https://arxiv.org/abs/2502.20439)**  
+3. **[Chronology of our Galaxy from Gaia colour-magnitude diagram fitting (ChronoGal). III. Age and metallicity distribution of Gaia-Sausage-Enceladus stars near the Sun](https://arxiv.org/abs/2502.20439)**  
    *Brief summary of the paper.*
 
 ---
