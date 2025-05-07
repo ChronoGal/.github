@@ -1,4 +1,4 @@
-# 🌌 ChronoGal: Exploring the Star Formation History of the Milky Way
+# 🌌 ChronoGal: Chronology of our Galaxy from Gaia colour-magnitude diagram fitting
 
 > Welcome to **ChronoGal**, a project dedicated to uncovering the history and present state of our galaxy, the Milky Way. We achieve this through CMD fitting, where we calculate star formation histories. These histories allow us to draw conclusions about the formation and evolution of the galaxy.
 ---
